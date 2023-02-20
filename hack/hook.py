@@ -12,6 +12,8 @@ print ("""
 """)
 print("#" * 110, end='\n\n')
 
+exeName = "GOI Cheat.exe"
+
 def Log(msg, isError=False):
     msg = '[Error] ' + msg if isError else '[Info] ' + msg
     print(msg)
@@ -19,7 +21,7 @@ def Log(msg, isError=False):
 Log("Initializing keyboard listener")
 def RunOperation(operation, name):
     Log("Applying operation {}".format(operation))
-    system("goi.exe {} {}".format(operation, name))
+    system("\"{}\" {} {}".format(exeName, operation, name))
 
 Log("Setting up saving hook")
 keyboard.add_hotkey('ctrl+shift+s', RunOperation, args=('save', 'checkpoint'))
