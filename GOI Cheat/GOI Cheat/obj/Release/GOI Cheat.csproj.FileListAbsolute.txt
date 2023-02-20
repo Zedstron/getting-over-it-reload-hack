@@ -1,0 +1,7 @@
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\bin\Release\GOI Cheat.exe.config
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\bin\Release\GOI Cheat.exe
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\bin\Release\GOI Cheat.pdb
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\obj\Release\GOI Cheat.csproj.AssemblyReference.cache
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\obj\Release\GOI Cheat.csproj.CoreCompileInputs.cache
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\obj\Release\GOI Cheat.exe
+C:\Users\zain9\source\repos\GOI Cheat\GOI Cheat\obj\Release\GOI Cheat.pdb
